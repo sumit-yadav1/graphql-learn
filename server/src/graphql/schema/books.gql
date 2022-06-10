@@ -1,0 +1,9 @@
+type Query {
+  title: String!
+}
+
+type Book {
+  rating: Int
+  name: String
+  qty: Int
+}

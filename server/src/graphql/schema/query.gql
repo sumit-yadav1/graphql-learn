@@ -1,0 +1,5 @@
+type Query {
+  getAllBooks: [Book]
+  getAllPosts: [Post]
+  getAllUsers: [User]
+}

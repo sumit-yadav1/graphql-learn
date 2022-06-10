@@ -1,0 +1,10 @@
+type Post {
+  id: Int
+  title: String
+  description: String
+}
+
+input PostInput {
+  title: String
+  description: String
+}
